@@ -1,0 +1,9 @@
+Name: Steve
+Age: 24
+Qualification: B.Tech(CSE)
+Skills
+1) Project Management
+2) Python
+3) Digital Marketing
+4) Dart
+5) MS Office

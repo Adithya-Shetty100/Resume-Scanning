@@ -1,0 +1,10 @@
+Name:Anne
+Age:23
+Qualification:B.Tech(CSE)
+Skills
+1)Java
+2)Python
+3)teamwork
+4)HTML
+5)MS Office
+

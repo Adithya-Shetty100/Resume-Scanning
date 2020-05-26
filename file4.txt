@@ -1,0 +1,10 @@
+Name: Larry
+Age: 26
+Qualification: B.Tech(EEE)
+Skills
+1) React
+2) CSS
+3) Project Management
+4) HTML
+5) C++
+

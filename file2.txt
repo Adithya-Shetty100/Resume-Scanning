@@ -1,0 +1,10 @@
+Name: Max
+Age: 22
+Qualification: B.Tech(ECE)
+Skills
+1) Java
+2) CSS
+3) Teamwork
+4) HTML
+5) MS Office
+6) Arduino
